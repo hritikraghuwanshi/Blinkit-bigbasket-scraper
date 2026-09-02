@@ -1,9 +1,10 @@
 """
-CLI entrypoint for the Blinkit / BigBasket product listing scraper.
+CLI entrypoint for the Blinkit / BigBasket / Zepto product listing scraper.
 
 Usage:
     python main.py --site blinkit --city gurgaon --format csv
     python main.py --site bigbasket --city gurgaon --format json
+    python main.py --site zepto --city gurgaon --format json
     python main.py --site all --city gurgaon --format csv
 """
 import argparse
@@ -39,15 +40,25 @@ def run_bigbasket(city: str) -> list:
         return scraper.get_listings(config.BIGBASKET_CATEGORIES)
 
 
+def run_zepto(city: str) -> list:
+    from scrapers.zepto_scraper import ZeptoScraper
+
+    with ZeptoScraper(city) as scraper:
+        if not scraper.set_location():
+            logger.warning("Zepto location-set failed; results may not reflect %s", city)
+        return scraper.get_listings(config.ZEPTO_CATEGORIES)
+
+
 SCRAPERS = {
     "blinkit": run_blinkit,
     "bigbasket": run_bigbasket,
+    "zepto": run_zepto,
 }
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Blinkit / BigBasket product listing scraper")
-    parser.add_argument("--site", choices=["blinkit", "bigbasket", "all"], default="all")
+    parser = argparse.ArgumentParser(description="Blinkit / BigBasket / Zepto product listing scraper")
+    parser.add_argument("--site", choices=["blinkit", "bigbasket", "zepto", "all"], default="all")
     parser.add_argument("--city", choices=list(config.CITIES.keys()), default=config.DEFAULT_CITY)
     parser.add_argument("--format", choices=["csv", "json"], default="csv")
     parser.add_argument("--output", default=None, help="Output file path (default: <site>_<city>.<format>)")
