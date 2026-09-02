@@ -1,0 +1,208 @@
+source,city,product_name,brand,selling_price,mrp,discount,availability,product_url,category,subcategory,pack_size
+blinkit,Gurgaon,Banana,,44.0,56.0,21% OFF,In Stock,https://blinkit.com/prn/banana/prid/3874,vegetables_fruits,all,3 pcs
+blinkit,Gurgaon,Coriander Bunch (Dhaniya Patta),,26.0,32.0,18% OFF,In Stock,https://blinkit.com/prn/coriander-bunch-dhaniya-patta/prid/3889,vegetables_fruits,all,100 g
+blinkit,Gurgaon,Orange Carrot (Gajar),,22.0,28.0,21% OFF,In Stock,https://blinkit.com/prn/orange-carrot-gajar/prid/3913,vegetables_fruits,all,200 g
+blinkit,Gurgaon,Lemon,,65.0,82.0,20% OFF,In Stock,https://blinkit.com/prn/lemon/prid/229627,vegetables_fruits,all,200 g
+blinkit,Gurgaon,Onion (Pyaz),,56.0,67.0,16% OFF,In Stock,https://blinkit.com/prn/onion-pyaz/prid/530158,vegetables_fruits,all,1 kg
+blinkit,Gurgaon,English Cucumber (Kheera),,33.0,37.0,10% OFF,In Stock,https://blinkit.com/prn/english-cucumber-kheera/prid/23343,vegetables_fruits,all,500 g
+blinkit,Gurgaon,Green Chilli (Hari Mirch),,12.0,14.0,14% OFF,In Stock,https://blinkit.com/prn/green-chilli-hari-mirch/prid/423735,vegetables_fruits,all,100 g
+blinkit,Gurgaon,Ginger (Adrak),,42.0,49.0,14% OFF,In Stock,https://blinkit.com/prn/ginger-adrak/prid/95032,vegetables_fruits,all,200 g
+blinkit,Gurgaon,Green Capsicum (Shimla Mirch),,26.0,32.0,18% OFF,In Stock,https://blinkit.com/prn/green-capsicum-shimla-mirch/prid/3888,vegetables_fruits,all,250 g
+blinkit,Gurgaon,Baby Banana,,44.0,50.0,12% OFF,In Stock,https://blinkit.com/prn/baby-banana/prid/342340,vegetables_fruits,all,4 pcs
+blinkit,Gurgaon,Jumbo Blueberry,,319.0,382.0,16% OFF,In Stock,https://blinkit.com/prn/jumbo-blueberry/prid/737062,vegetables_fruits,all,125 g
+blinkit,Gurgaon,Button Mushroom,,47.0,55.0,14% OFF,In Stock,https://blinkit.com/prn/button-mushroom/prid/253317,vegetables_fruits,all,180 g
+blinkit,Gurgaon,Potato (Aloo),,22.0,25.0,12% OFF,In Stock,https://blinkit.com/prn/potato-aloo/prid/199435,vegetables_fruits,all,1 kg
+blinkit,Gurgaon,French Beans - 250 g,,27.0,35.0,22% OFF,In Stock,https://blinkit.com/prn/french-beans-250-g/prid/4916,vegetables_fruits,all,250 g
+blinkit,Gurgaon,Cauliflower (Phool Gobhi),,60.0,76.0,21% OFF,In Stock,https://blinkit.com/prn/cauliflower-phool-gobhi/prid/339153,vegetables_fruits,all,400 g
+blinkit,Gurgaon,Tender Coconut (Nariyal),,90.0,108.0,16% OFF,In Stock,https://blinkit.com/prn/tender-coconut-nariyal/prid/421756,vegetables_fruits,all,1 pc
+blinkit,Gurgaon,Bottle Gourd (Lauki),,17.0,22.0,22% OFF,In Stock,https://blinkit.com/prn/bottle-gourd-lauki/prid/217614,vegetables_fruits,all,400 g
+blinkit,Gurgaon,Hybrid Tomato (Tamatar),,30.0,35.0,14% OFF,In Stock,https://blinkit.com/prn/hybrid-tomato-tamatar/prid/367909,vegetables_fruits,all,500 g
+blinkit,Gurgaon,Desi Tomato (Tamatar),,35.0,41.0,14% OFF,In Stock,https://blinkit.com/prn/desi-tomato-tamatar/prid/366032,vegetables_fruits,all,500 g
+blinkit,Gurgaon,Avocado Hass - Tanzania,,89.0,112.0,20% OFF,In Stock,https://blinkit.com/prn/avocado-hass-tanzania/prid/190306,vegetables_fruits,all,150 g
+blinkit,Gurgaon,Green Cucumber (Kheera),,29.0,34.0,14% OFF,In Stock,https://blinkit.com/prn/green-cucumber-kheera/prid/10088,vegetables_fruits,all,500 g
+blinkit,Gurgaon,Red Bell Pepper,,61.0,79.0,22% OFF,In Stock,https://blinkit.com/prn/red-bell-pepper/prid/39394,vegetables_fruits,all,125 g
+blinkit,Gurgaon,Yellaki Banana,,74.0,94.0,21% OFF,In Stock,https://blinkit.com/prn/yellaki-banana/prid/88275,vegetables_fruits,all,6 pcs
+blinkit,Gurgaon,Garlic (Lehsun),,68.0,85.0,20% OFF,In Stock,https://blinkit.com/prn/garlic-lehsun/prid/95031,vegetables_fruits,all,200 g
+blinkit,Gurgaon,Organically Grown Ginger (Adrak),,48.0,59.0,18% OFF,In Stock,https://blinkit.com/prn/organically-grown-ginger-adrak/prid/602584,vegetables_fruits,all,100 g
+blinkit,Gurgaon,Blueberry - Imported,,229.0,263.0,12% OFF,In Stock,https://blinkit.com/prn/blueberry-imported/prid/480907,vegetables_fruits,all,125 g
+blinkit,Gurgaon,Yellow Bell Pepper,,60.0,78.0,23% OFF,In Stock,https://blinkit.com/prn/yellow-bell-pepper/prid/39395,vegetables_fruits,all,125 g
+blinkit,Gurgaon,Broccoli,,109.0,128.0,14% OFF,In Stock,https://blinkit.com/prn/broccoli/prid/559078,vegetables_fruits,all,300 g
+blinkit,Gurgaon,Washington Red Delicious Apple,,183.0,219.0,16% OFF,In Stock,https://blinkit.com/prn/washington-red-delicious-apple/prid/232718,vegetables_fruits,all,340 g
+blinkit,Gurgaon,Pooja Flower Mix,,35.0,44.0,20% OFF,In Stock,https://blinkit.com/prn/pooja-flower-mix/prid/450376,vegetables_fruits,all,100 g
+blinkit,Gurgaon,"Aashirvaad Shudh Chakki Atta (100% Atta, 0% Maida, 5 Kg)",,244.0,267.0,8% OFF,In Stock,https://blinkit.com/prn/aashirvaad-shudh-chakki-atta-100-atta-0-maida-5-kg/prid/333764,atta_rice_dal,atta,5 kg
+blinkit,Gurgaon,Aashirvaad Select 100% MP Sharbati Atta,,140.0,156.0,10% OFF,In Stock,https://blinkit.com/prn/aashirvaad-select-100-mp-sharbati-atta/prid/567092,atta_rice_dal,atta,2 kg
+blinkit,Gurgaon,"Aashirvaad Shudh Chakki Atta (100% Atta, 0% Maida)",,458.0,499.0,8% OFF,In Stock,https://blinkit.com/prn/aashirvaad-shudh-chakki-atta-100-atta-0-maida/prid/333324,atta_rice_dal,atta,10 kg
+blinkit,Gurgaon,Aashirvaad High Fibre Multigrain Atta,,130.0,156.0,16% OFF,In Stock,https://blinkit.com/prn/aashirvaad-high-fibre-multigrain-atta/prid/710806,atta_rice_dal,atta,2 kg
+blinkit,Gurgaon,"Fortune Fresh (100% Atta, 0% Maida) Chakki Atta",,221.0,253.0,12% OFF,In Stock,https://blinkit.com/prn/fortune-fresh-100-atta-0-maida-chakki-atta/prid/380156,atta_rice_dal,atta,5 kg
+blinkit,Gurgaon,"Two Brothers Khapli Wheat Atta, Stoneground",,214.0,225.0,,In Stock,https://blinkit.com/prn/two-brothers-khapli-wheat-atta-stoneground/prid/579854,atta_rice_dal,atta,1 kg
+blinkit,Gurgaon,"Whole Farm Chakki Atta (100% Atta, 0% Maida)",,193.0,290.0,33% OFF,In Stock,https://blinkit.com/prn/whole-farm-chakki-atta-100-atta-0-maida/prid/514893,atta_rice_dal,atta,5 kg
+blinkit,Gurgaon,"Whole Farm Chakki Atta (100% Atta, 0% Maida)",,368.0,606.0,39% OFF,In Stock,https://blinkit.com/prn/whole-farm-chakki-atta-100-atta-0-maida/prid/514892,atta_rice_dal,atta,10 kg
+blinkit,Gurgaon,Organic Tattva Wheat Organic Atta - 1 kg,,75.0,95.0,21% OFF,In Stock,https://blinkit.com/prn/organic-tattva-wheat-organic-atta-1-kg/prid/81299,atta_rice_dal,atta,1 kg
+blinkit,Gurgaon,"Aashirvaad 0% Maida, 100 % MP Chakki Atta",,263.0,309.0,14% OFF,In Stock,https://blinkit.com/prn/aashirvaad-0-maida-100-mp-chakki-atta/prid/525463,atta_rice_dal,atta,5 kg
+blinkit,Gurgaon,"Two Brothers Khapli Wheat Atta, Stoneground",,896.0,995.0,9% OFF,In Stock,https://blinkit.com/prn/two-brothers-khapli-wheat-atta-stoneground/prid/653347,atta_rice_dal,atta,5 kg
+blinkit,Gurgaon,Aashirvaad Organic Atta,,286.0,414.0,30% OFF,In Stock,https://blinkit.com/prn/aashirvaad-organic-atta/prid/436305,atta_rice_dal,atta,5 kg
+blinkit,Gurgaon,Aashirvaad Organic Atta,,72.0,86.0,16% OFF,In Stock,https://blinkit.com/prn/aashirvaad-organic-atta/prid/436304,atta_rice_dal,atta,1 kg
+blinkit,Gurgaon,Pansari MP Sharbati Atta,,62.0,81.0,23% OFF,In Stock,https://blinkit.com/prn/pansari-mp-sharbati-atta/prid/544468,atta_rice_dal,atta,1 kg
+blinkit,Gurgaon,Organic Tattva Wheat Organic Atta - 5 kg,,310.0,450.0,31% OFF,In Stock,https://blinkit.com/prn/organic-tattva-wheat-organic-atta-5-kg/prid/86973,atta_rice_dal,atta,5 kg
+blinkit,Gurgaon,"Fortune Fresh (100% Atta, 0% Maida) Chakki Atta",,431.0,485.0,11% OFF,In Stock,https://blinkit.com/prn/fortune-fresh-100-atta-0-maida-chakki-atta/prid/380157,atta_rice_dal,atta,10 kg
+blinkit,Gurgaon,Fortune Multigrain Atta,,324.0,386.0,16% OFF,In Stock,https://blinkit.com/prn/fortune-multigrain-atta/prid/729621,atta_rice_dal,atta,5 kg
+blinkit,Gurgaon,Lo Foods Ultra Lo Carb Keto Atta (High Fibre),,575.0,,,In Stock,https://blinkit.com/prn/lo-foods-ultra-lo-carb-keto-atta-high-fibre/prid/673525,atta_rice_dal,atta,1 kg
+blinkit,Gurgaon,Pansari MP Sharbati Atta,,264.0,360.0,26% OFF,In Stock,https://blinkit.com/prn/pansari-mp-sharbati-atta/prid/552930,atta_rice_dal,atta,5 kg
+blinkit,Gurgaon,"Pillsbury Fresh Chakki Atta (100% atta, 0% Maida)",,405.0,495.0,18% OFF,In Stock,https://blinkit.com/prn/pillsbury-fresh-chakki-atta-100-atta-0-maida/prid/23694,atta_rice_dal,atta,10 kg
+blinkit,Gurgaon,Two Brothers Jaggery Powder Sugarcane Crushed Granular,,100.0,105.0,,In Stock,https://blinkit.com/prn/two-brothers-jaggery-powder-sugarcane-crushed-granular/prid/492184,atta_rice_dal,atta,500 g
+blinkit,Gurgaon,Two Brothers Khapli Multigrain Atta,,354.0,370.0,,In Stock,https://blinkit.com/prn/two-brothers-khapli-multigrain-atta/prid/806406,atta_rice_dal,atta,2 kg
+blinkit,Gurgaon,Vikram Mills Fresh Chakki Atta,,214.0,233.0,8% OFF,In Stock,https://blinkit.com/prn/vikram-mills-fresh-chakki-atta/prid/500270,atta_rice_dal,atta,5 kg
+blinkit,Gurgaon,Amul Organic Atta (Whole Wheat),,64.0,75.0,14% OFF,In Stock,https://blinkit.com/prn/amul-organic-atta-whole-wheat/prid/498764,atta_rice_dal,atta,1 kg
+blinkit,Gurgaon,Pansari Fresh Chakki Atta (0% Maida),,400.0,492.0,18% OFF,In Stock,https://blinkit.com/prn/pansari-fresh-chakki-atta-0-maida/prid/365683,atta_rice_dal,atta,10 kg
+blinkit,Gurgaon,Rajdhani Fresh Chakki Atta,,100.0,135.0,25% OFF,In Stock,https://blinkit.com/prn/rajdhani-fresh-chakki-atta/prid/779990,atta_rice_dal,atta,2 kg
+blinkit,Gurgaon,Fortune Premium MP Sharbati Atta,,322.0,385.0,16% OFF,In Stock,https://blinkit.com/prn/fortune-premium-mp-sharbati-atta/prid/544463,atta_rice_dal,atta,5 kg
+blinkit,Gurgaon,"Lo Foods Gluten Free Millet Atta (Bajra, Jowar, Ragi Flour)",,299.0,,,In Stock,https://blinkit.com/prn/lo-foods-gluten-free-millet-atta-bajra-jowar-ragi-flour/prid/561626,atta_rice_dal,atta,1 kg
+blinkit,Gurgaon,"Pillsbury Fresh Superior-Quality Chakki Atta (100% atta, 0% Maida)",,212.0,264.0,19% OFF,In Stock,https://blinkit.com/prn/pillsbury-fresh-superior-quality-chakki-atta-100-atta-0-maida/prid/55399,atta_rice_dal,atta,5 kg
+blinkit,Gurgaon,Protein Chef 50% More Protein Sharbati Atta (Premium Flour),,98.0,105.0,6% OFF,In Stock,https://blinkit.com/prn/protein-chef-50-more-protein-sharbati-atta-premium-flour/prid/637983,atta_rice_dal,atta,1 kg
+blinkit,Gurgaon,Whyte Farms Fresh A2 Milk,,116.0,,,In Stock,https://blinkit.com/prn/whyte-farms-fresh-a2-milk/prid/512610,dairy_bread_eggs,milk,1 ltr
+blinkit,Gurgaon,Provilac 25g High Protein Milk (Lactose-Free),,90.0,,,In Stock,https://blinkit.com/prn/provilac-25g-high-protein-milk-lactose-free/prid/730636,dairy_bread_eggs,milk,250 ml
+blinkit,Gurgaon,Whyte Farms Farm Fresh Pasteurised Cow Milk,,97.0,,,In Stock,https://blinkit.com/prn/whyte-farms-farm-fresh-pasteurised-cow-milk/prid/357859,dairy_bread_eggs,milk,1 ltr
+blinkit,Gurgaon,Amul Taaza Toned Milk,,30.0,,,In Stock,https://blinkit.com/prn/amul-taaza-toned-milk/prid/19512,dairy_bread_eggs,milk,500 ml
+blinkit,Gurgaon,Amul Gold Full Cream Milk,,36.0,,,In Stock,https://blinkit.com/prn/amul-gold-full-cream-milk/prid/12872,dairy_bread_eggs,milk,500 ml
+blinkit,Gurgaon,Provilac 50g High Protein Milk (Lactose-Free),,150.0,,,In Stock,https://blinkit.com/prn/provilac-50g-high-protein-milk-lactose-free/prid/742139,dairy_bread_eggs,milk,500 ml
+blinkit,Gurgaon,Provilac Cacao 26g High Protein Milk (Lactose-Free),,150.0,,,In Stock,https://blinkit.com/prn/provilac-cacao-26g-high-protein-milk-lactose-free/prid/742104,dairy_bread_eggs,milk,250 g
+blinkit,Gurgaon,Highland Farms A2 Cow Milk,,170.0,,,In Stock,https://blinkit.com/prn/highland-farms-a2-cow-milk/prid/735925,dairy_bread_eggs,milk,1 ltr
+blinkit,Gurgaon,Provilac Kesar Elaichi 26g High Protein Milk (Lactose-Free),,130.0,,,In Stock,https://blinkit.com/prn/provilac-kesar-elaichi-26g-high-protein-milk-lactose-free/prid/733476,dairy_bread_eggs,milk,250 ml
+blinkit,Gurgaon,Provilac Coffee 26g High Protein Milk (Lactose-Free),,130.0,,,In Stock,https://blinkit.com/prn/provilac-coffee-26g-high-protein-milk-lactose-free/prid/742100,dairy_bread_eggs,milk,250 g
+blinkit,Gurgaon,Amul Taaza Homogenised Toned Milk,,77.0,,,In Stock,https://blinkit.com/prn/amul-taaza-homogenised-toned-milk/prid/176,dairy_bread_eggs,milk,1 ltr
+blinkit,Gurgaon,Amul Lactose Free Milk,,26.0,,,In Stock,https://blinkit.com/prn/amul-lactose-free-milk/prid/206314,dairy_bread_eggs,milk,250 ml
+blinkit,Gurgaon,Mother Dairy Toned Milk,,30.0,,,In Stock,https://blinkit.com/prn/mother-dairy-toned-milk/prid/19925,dairy_bread_eggs,milk,500 ml
+blinkit,Gurgaon,Amul Cow Milk,,31.0,,,In Stock,https://blinkit.com/prn/amul-cow-milk/prid/160704,dairy_bread_eggs,milk,500 ml
+blinkit,Gurgaon,Mother Dairy Cow Milk,,62.0,,,In Stock,https://blinkit.com/prn/mother-dairy-cow-milk/prid/560906,dairy_bread_eggs,milk,1 ltr
+blinkit,Gurgaon,Whyte Farms Lactose Free Milk,,80.0,,,In Stock,https://blinkit.com/prn/whyte-farms-lactose-free-milk/prid/804080,dairy_bread_eggs,milk,500 ml
+blinkit,Gurgaon,Mother Dairy Full Cream Milk,,36.0,,,In Stock,https://blinkit.com/prn/mother-dairy-full-cream-milk/prid/19924,dairy_bread_eggs,milk,500 ml
+blinkit,Gurgaon,Amul Taaza Toned Milk,,17.0,,,In Stock,https://blinkit.com/prn/amul-taaza-toned-milk/prid/113945,dairy_bread_eggs,milk,200 ml
+blinkit,Gurgaon,Amul Moti Toned Milk (90 Days Shelf Life),,33.0,,,In Stock,https://blinkit.com/prn/amul-moti-toned-milk-90-days-shelf-life/prid/34778,dairy_bread_eggs,milk,450 ml
+blinkit,Gurgaon,Amul Buffalo A2 Milk,,40.0,,,In Stock,https://blinkit.com/prn/amul-buffalo-a2-milk/prid/522807,dairy_bread_eggs,milk,500 ml
+blinkit,Gurgaon,Amul Gold Milk,,83.0,,,In Stock,https://blinkit.com/prn/amul-gold-milk/prid/179,dairy_bread_eggs,milk,1 ltr
+blinkit,Gurgaon,Country Delight Cow Milk,,46.0,48.0,,In Stock,https://blinkit.com/prn/country-delight-cow-milk/prid/637875,dairy_bread_eggs,milk,450 ml
+blinkit,Gurgaon,Yakult Probiotic Drink,,90.0,,,In Stock,https://blinkit.com/prn/yakult-probiotic-drink/prid/3471,dairy_bread_eggs,milk,5 x 65 ml
+blinkit,Gurgaon,Provilac Non-Homogenized Cow Milk,,45.0,,,In Stock,https://blinkit.com/prn/provilac-non-homogenized-cow-milk/prid/751421,dairy_bread_eggs,milk,500 ml
+blinkit,Gurgaon,Mother Dairy FIT Life Homogenized Double Toned Milk (450 ml),,32.0,,,In Stock,https://blinkit.com/prn/mother-dairy-fit-life-homogenized-double-toned-milk-450-ml/prid/207766,dairy_bread_eggs,milk,450 ml
+blinkit,Gurgaon,Amul Slim 'n' Trim Skimmed Milk (Zero Cholesterol),,85.0,,,In Stock,https://blinkit.com/prn/amul-slim-n-trim-skimmed-milk-zero-cholesterol/prid/177181,dairy_bread_eggs,milk,1 ltr
+blinkit,Gurgaon,Humpy Farms A2 Cow Milk,,46.0,49.0,6% OFF,In Stock,https://blinkit.com/prn/humpy-farms-a2-cow-milk/prid/505525,dairy_bread_eggs,milk,500 ml
+blinkit,Gurgaon,Nestle a+ Toned Milk,,112.0,,,In Stock,https://blinkit.com/prn/nestle-a-toned-milk/prid/138836,dairy_bread_eggs,milk,1 ltr
+blinkit,Gurgaon,Country Delight Buffalo Fresh Milk,,55.0,59.0,6% OFF,In Stock,https://blinkit.com/prn/country-delight-buffalo-fresh-milk/prid/637879,dairy_bread_eggs,milk,450 ml
+blinkit,Gurgaon,Yakult Light Probiotic Drink,,100.0,,,In Stock,https://blinkit.com/prn/yakult-light-probiotic-drink/prid/382243,dairy_bread_eggs,milk,5 x 65 ml
+blinkit,Gurgaon,Mysore Sandal Soap 75 g,,42.0,,,In Stock,https://blinkit.com/prn/mysore-sandal-soap-75-g/prid/19934,bath_body,bathing-soaps,75 g
+blinkit,Gurgaon,Pears Pure & Gentle Soap,,186.0,211.0,11% OFF,In Stock,https://blinkit.com/prn/pears-pure-gentle-soap/prid/19481,bath_body,bathing-soaps,3 x 125 g
+blinkit,Gurgaon,Dove Beauty Cream Soap,,62.0,,,In Stock,https://blinkit.com/prn/dove-beauty-cream-soap/prid/132867,bath_body,bathing-soaps,100 g
+blinkit,Gurgaon,Dettol Original Bathing Bar Soap with 12 Hr Protective Shield,,250.0,312.0,19% OFF,In Stock,https://blinkit.com/prn/dettol-original-bathing-bar-soap-with-12-hr-protective-shield/prid/136968,bath_body,bathing-soaps,5 x 125 g
+blinkit,Gurgaon,Lux Natural Glow Soap Mega Pack,,158.0,185.0,14% OFF,In Stock,https://blinkit.com/prn/lux-natural-glow-soap-mega-pack/prid/24273,bath_body,bathing-soaps,3 x 150 g
+blinkit,Gurgaon,Ghar Soaps Sandalwood & Saffron Magic Soap (Pack of 2),,260.0,333.0,21% OFF,In Stock,https://blinkit.com/prn/ghar-soaps-sandalwood-saffron-magic-soap-pack-of-2/prid/563089,bath_body,bathing-soaps,2 x 100 g
+blinkit,Gurgaon,Pears Pure & Gentle Glycerin Soap,,52.0,,,In Stock,https://blinkit.com/prn/pears-pure-gentle-glycerin-soap/prid/22690,bath_body,bathing-soaps,100 g
+blinkit,Gurgaon,Dove Cream Beauty Bathing Soap (3 x 125 g),,243.0,272.0,10% OFF,In Stock,https://blinkit.com/prn/dove-cream-beauty-bathing-soap-3-x-125-g/prid/445815,bath_body,bathing-soaps,3 x 125 g
+blinkit,Gurgaon,Jo Lime Sparkling Fresh Soap - Buy 4 Get 1 Free,,99.0,125.0,20% OFF,In Stock,https://blinkit.com/prn/jo-lime-sparkling-fresh-soap-buy-4-get-1-free/prid/143553,bath_body,bathing-soaps,5 x 100 g
+blinkit,Gurgaon,Dettol Original Bathing Bar Soap with 12 Hr Protective Shield,,161.0,178.0,9% OFF,In Stock,https://blinkit.com/prn/dettol-original-bathing-bar-soap-with-12-hr-protective-shield/prid/540416,bath_body,bathing-soaps,4 x 100 g
+blinkit,Gurgaon,Ghar Soaps Sandalwood & Saffron Magic Soap,,174.0,199.0,12% OFF,In Stock,https://blinkit.com/prn/ghar-soaps-sandalwood-saffron-magic-soap/prid/609383,bath_body,bathing-soaps,100 g
+blinkit,Gurgaon,Dettol Neem Bathing Bar - Buy 3 Get 1 Free,,103.0,126.0,18% OFF,In Stock,https://blinkit.com/prn/dettol-neem-bathing-bar-buy-3-get-1-free/prid/496492,bath_body,bathing-soaps,4 x 75 g
+blinkit,Gurgaon,Fiama Soap Blackcurrant & Bearberry Radiant Glow,,72.0,84.0,14% OFF,In Stock,https://blinkit.com/prn/fiama-soap-blackcurrant-bearberry-radiant-glow/prid/544848,bath_body,bathing-soaps,125 g
+blinkit,Gurgaon,Khadi Natural Rosewater Handmade Soap,,84.0,99.0,15% OFF,In Stock,https://blinkit.com/prn/khadi-natural-rosewater-handmade-soap/prid/484711,bath_body,bathing-soaps,125 g
+blinkit,Gurgaon,Khadi Natural Sandalwood Handmade Soap,,84.0,99.0,15% OFF,In Stock,https://blinkit.com/prn/khadi-natural-sandalwood-handmade-soap/prid/484712,bath_body,bathing-soaps,125 g
+blinkit,Gurgaon,Lux Jasmine & Vitamin C + E Beauty Soap,,158.0,185.0,14% OFF,In Stock,https://blinkit.com/prn/lux-jasmine-vitamin-c-e-beauty-soap/prid/127687,bath_body,bathing-soaps,3 x 150 g
+blinkit,Gurgaon,Pears Pure & Gentle Soap (125 g) - Pack of 5,,293.0,401.0,26% OFF,In Stock,https://blinkit.com/prn/pears-pure-gentle-soap-125-g-pack-of-5/prid/211410,bath_body,bathing-soaps,5 x 125 g
+blinkit,Gurgaon,Biotique Basil & Parsley Revitalizing Soap,,87.0,107.0,18% OFF,In Stock,https://blinkit.com/prn/biotique-basil-parsley-revitalizing-soap/prid/242024,bath_body,bathing-soaps,150 g
+blinkit,Gurgaon,Dettol Skincare Moisturizing Beauty Bathing Soap,,139.0,156.0,10% OFF,In Stock,https://blinkit.com/prn/dettol-skincare-moisturizing-beauty-bathing-soap/prid/541076,bath_body,bathing-soaps,4 x 100 g
+blinkit,Gurgaon,Forest Essentials Luxury Sugar Soap - Rose & Cardamom,,510.0,,,In Stock,https://blinkit.com/prn/forest-essentials-luxury-sugar-soap-rose-cardamom/prid/801519,bath_body,bathing-soaps,100 g
+blinkit,Gurgaon,Ghar Soaps Sandalwood & Saffron Magic Soap (Pack of 3),,369.0,470.0,21% OFF,In Stock,https://blinkit.com/prn/ghar-soaps-sandalwood-saffron-magic-soap-pack-of-3/prid/563229,bath_body,bathing-soaps,3 x 100 g
+blinkit,Gurgaon,Pears Soft & Fresh Soap - Buy 3 Get 1 Free,,304.0,380.0,20% OFF,In Stock,https://blinkit.com/prn/pears-soft-fresh-soap-buy-3-get-1-free/prid/362297,bath_body,bathing-soaps,4 x 125 g
+blinkit,Gurgaon,Dettol Original Bathing Bar,,62.0,67.0,7% OFF,In Stock,https://blinkit.com/prn/dettol-original-bathing-bar/prid/747360,bath_body,bathing-soaps,150 g
+blinkit,Gurgaon,Fiama Men Soap Bar Refreshing Pulse Sea Minerals,,59.0,84.0,29% OFF,In Stock,https://blinkit.com/prn/fiama-men-soap-bar-refreshing-pulse-sea-minerals/prid/544904,bath_body,bathing-soaps,125 g
+blinkit,Gurgaon,Fiama Moisturizing Soap Bars Japanese Hokkaido Milk & Acai Berry,,62.0,70.0,11% OFF,In Stock,https://blinkit.com/prn/fiama-moisturizing-soap-bars-japanese-hokkaido-milk-acai-berry/prid/598189,bath_body,bathing-soaps,125 g
+blinkit,Gurgaon,Forest Essentials Luxury Sugar Soap - Sandalwood & Turmeric,,510.0,,,In Stock,https://blinkit.com/prn/forest-essentials-luxury-sugar-soap-sandalwood-turmeric/prid/801518,bath_body,bathing-soaps,100 g
+blinkit,Gurgaon,Himalaya Cucumber & Coconut Soap 125 g,,51.0,60.0,15% OFF,In Stock,https://blinkit.com/prn/himalaya-cucumber-coconut-soap-125-g/prid/30806,bath_body,bathing-soaps,125 g
+blinkit,Gurgaon,Himalaya Neem & Turmeric Soap 125 g,,51.0,60.0,15% OFF,In Stock,https://blinkit.com/prn/himalaya-neem-turmeric-soap-125-g/prid/170508,bath_body,bathing-soaps,125 g
+blinkit,Gurgaon,Jo Almond & Cream Caressing Soap - Buy 4 Get 1 Free,,99.0,125.0,20% OFF,In Stock,https://blinkit.com/prn/jo-almond-cream-caressing-soap-buy-4-get-1-free/prid/484706,bath_body,bathing-soaps,5 x 100 g
+blinkit,Gurgaon,Lux International Smooth & Radiant Soap,,273.0,328.0,16% OFF,In Stock,https://blinkit.com/prn/lux-international-smooth-radiant-soap/prid/756240,bath_body,bathing-soaps,4 x 130 g
+bigbasket,Gurgaon,Onion,fresho!,69.0,86.25,20% OFF,In Stock,https://www.bigbasket.com/pd/10000148/fresho-onion-1-kg/,fresh_vegetables,fresh-vegetables,1 kg
+bigbasket,Gurgaon,Ladies' Fingers,fresho!,7.0,21.25,67% OFF,In Stock,https://www.bigbasket.com/pd/10000143/fresho-ladies-finger-250-g/,fresh_vegetables,fresh-vegetables,250 g
+bigbasket,Gurgaon,Local Tomato,fresho!,20.0,76.25,74% OFF,In Stock,https://www.bigbasket.com/pd/10000203/fresho-tomato-local-1-kg/,fresh_vegetables,fresh-vegetables,1 kg
+bigbasket,Gurgaon,Potato - New,fresho!,10.0,32.5,69% OFF,In Stock,https://www.bigbasket.com/pd/40320936/fresho-potato-fresh-crop-1-kg/,fresh_vegetables,fresh-vegetables,1 kg
+bigbasket,Gurgaon,Capsicum - Green,fresho!,20.0,35.0,43% OFF,In Stock,https://www.bigbasket.com/pd/10000068/fresho-capsicum-green-250-g/,fresh_vegetables,fresh-vegetables,250 g
+bigbasket,Gurgaon,Cucumber,fresho!,24.5,36.25,32% OFF,In Stock,https://www.bigbasket.com/pd/10000103/fresho-cucumber-500-g/,fresh_vegetables,fresh-vegetables,500 g
+bigbasket,Gurgaon,Bottle Gourd,fresho!,10.0,41.25,76% OFF,In Stock,https://www.bigbasket.com/pd/20000745/fresho-bottle-gourd-1-pc/,fresh_vegetables,fresh-vegetables,(Approx. 500 g - 800 g)
+bigbasket,Gurgaon,Tomato - Hybrid,fresho!,52.0,96.25,46% OFF,In Stock,https://www.bigbasket.com/pd/10000200/fresho-tomato-hybrid-1-kg/,fresh_vegetables,fresh-vegetables,1 kg
+bigbasket,Gurgaon,English Cucumber,fresho!,30.5,48.75,37% OFF,In Stock,https://www.bigbasket.com/pd/10000599/fresho-cucumber-english-500-g/,fresh_vegetables,fresh-vegetables,500 g
+bigbasket,Gurgaon,Sponge Gourd,fresho!,38.0,47.5,20% OFF,In Stock,https://www.bigbasket.com/pd/30000584/fresho-sponge-gourd-500-g/,fresh_vegetables,fresh-vegetables,500 g
+bigbasket,Gurgaon,Beetroot,fresho!,15.5,21.25,27% OFF,In Stock,https://www.bigbasket.com/pd/10000047/fresho-beetroot-250-g/,fresh_vegetables,fresh-vegetables,300 g
+bigbasket,Gurgaon,Carrot - Ooty,fresho!,37.0,46.25,20% OFF,In Stock,https://www.bigbasket.com/pd/10000271/fresho-carrot-ooty-500-g/,fresh_vegetables,fresh-vegetables,500 g
+bigbasket,Gurgaon,Purple Brinjal - Long,fresho!,20.0,25.0,20% OFF,In Stock,https://www.bigbasket.com/pd/20001189/fresho-brinjal-purple-long-250-g/,fresh_vegetables,fresh-vegetables,250 g
+bigbasket,Gurgaon,Bitter Gourd,fresho!,23.0,28.75,20% OFF,In Stock,https://www.bigbasket.com/pd/10000050/fresho-bitter-gourd-250-g/,fresh_vegetables,fresh-vegetables,250 g
+bigbasket,Gurgaon,Coccinia,fresho!,16.0,21.25,25% OFF,In Stock,https://www.bigbasket.com/pd/10000090/fresho-coccinia-250-g/,fresh_vegetables,fresh-vegetables,250 g
+bigbasket,Gurgaon,Cauliflower,fresho!,89.0,130.0,32% OFF,In Stock,https://www.bigbasket.com/pd/10000074/fresho-cauliflower-1-pc/,fresh_vegetables,fresh-vegetables,(approx. 400 to 600 g)
+bigbasket,Gurgaon,French Ring Beans,fresho!,10.0,38.75,74% OFF,In Stock,https://www.bigbasket.com/pd/10000043/fresho-beans-french-ring-250-g/,fresh_vegetables,fresh-vegetables,250 g
+bigbasket,Gurgaon,Disco Pumpkin,fresho!,5.0,18.75,73% OFF,In Stock,https://www.bigbasket.com/pd/10000280/fresho-pumpkin-disco-250-g/,fresh_vegetables,fresh-vegetables,250 g
+bigbasket,Gurgaon,"Brinjal - Purple, Bharta",fresho!,7.0,30.0,77% OFF,In Stock,https://www.bigbasket.com/pd/40373637/fresho-brinjal-purple-bharta-350-g/,fresh_vegetables,fresh-vegetables,350 g
+bigbasket,Gurgaon,Baby Bottle Gourd Premium,fresho!,17.0,48.75,65% OFF,In Stock,https://www.bigbasket.com/pd/40189108/fresho-baby-bottle-gourd-1-pc-300g-450g/,fresh_vegetables,fresh-vegetables,(300 g - 450 g approx.)
+bigbasket,Gurgaon,"Banana - Robusta, Small",fresho!,73.5,93.75,22% OFF,In Stock,https://www.bigbasket.com/pd/40179390/fresho-baby-banana-robusta-1-kg/,fresh_fruits,fresh-fruits,(Approx. 10 -12 pcs)
+bigbasket,Gurgaon,Pomegranate - Regular,fresho!,187.0,233.75,20% OFF,In Stock,https://www.bigbasket.com/pd/40120006/fresho-pomegranate-small-1-kg/,fresh_fruits,fresh-fruits,(5-6 pcs per kg)
+bigbasket,Gurgaon,Banana - Robusta,fresho!,40.5,52.5,23% OFF,In Stock,https://www.bigbasket.com/pd/10000027/fresho-banana-robusta-500-g/,fresh_fruits,fresh-fruits,(Approx. 3 - 4 pcs)
+bigbasket,Gurgaon,"Kiwi - Green, Imported",fresho!,72.5,116.25,38% OFF,In Stock,https://www.bigbasket.com/pd/40350297/fresho-kiwi-green-imported-2-pcs/,fresh_fruits,fresh-fruits,2 pcs
+bigbasket,Gurgaon,Papaya - Medium,fresho!,98.0,122.5,20% OFF,In Stock,https://www.bigbasket.com/pd/10000152/fresho-papaya-medium-1-pc/,fresh_fruits,fresh-fruits,(approx 800g - 1.4 kg)
+bigbasket,Gurgaon,Mosambi - Small,fresho!,20.0,103.75,81% OFF,In Stock,https://www.bigbasket.com/pd/40203347/fresho-mosambi-economy-1-kg/,fresh_fruits,fresh-fruits,1 kg
+bigbasket,Gurgaon,Indian Apple - Royal Gala,fresho!,86.0,107.5,20% OFF,In Stock,https://www.bigbasket.com/pd/40319253/fresho-apple-royal-gala-2-pcs/,fresh_fruits,fresh-fruits,(Approx. 260 g - 300 g)
+bigbasket,Gurgaon,Apple Shimla - Small,fresho!,85.0,135.0,37% OFF,In Stock,https://www.bigbasket.com/pd/40134282/fresho-baby-apple-500-g/,fresh_fruits,fresh-fruits,(Approx. 5-6 pcs)
+bigbasket,Gurgaon,Mini Orange,fresho!,147.0,183.75,20% OFF,In Stock,https://www.bigbasket.com/pd/40008987/fresho-orange-mini-3-pcs/,fresh_fruits,fresh-fruits,3 pcs
+bigbasket,Gurgaon,Pomegranate,fresho!,99.0,123.75,20% OFF,In Stock,https://www.bigbasket.com/pd/40042512/fresho-pomegranate-2-pcs/,fresh_fruits,fresh-fruits,(approx. 400 to 440 g)
+bigbasket,Gurgaon,"Apple - Royal Gala, Premium",fresho!,95.0,118.75,20% OFF,In Stock,https://www.bigbasket.com/pd/40277463/fresho-apple-royal-gala-premium-2-pcs/,fresh_fruits,fresh-fruits,(Approx. 300 - 350 g)
+bigbasket,Gurgaon,Watermelon  - Small,fresho!,79.0,98.75,20% OFF,In Stock,https://www.bigbasket.com/pd/10000207/fresho-watermelon-small-1-pc/,fresh_fruits,fresh-fruits,(approx 1.8 - 2.5 kg)
+bigbasket,Gurgaon,Coconut - Small,fresho!,66.0,82.5,20% OFF,In Stock,https://www.bigbasket.com/pd/40288535/fresho-coconut-small-for-healthy-recipes-1-pc/,fresh_fruits,fresh-fruits,(approx. 350 g)
+bigbasket,Gurgaon,Apple - Shimla,fresho!,59.0,96.25,39% OFF,In Stock,https://www.bigbasket.com/pd/40087097/fresho-apple-shimla-2-pcs/,fresh_fruits,fresh-fruits,(Approx. 250 - 300 g)
+bigbasket,Gurgaon,Pear - Indian (Babbu Gosha),fresho!,211.0,263.75,20% OFF,In Stock,https://www.bigbasket.com/pd/70000495/fresho-pear-indian-babbu-gosha-1-kg/,fresh_fruits,fresh-fruits,1 kg
+bigbasket,Gurgaon,Apple - Green,fresho!,141.0,176.25,20% OFF,In Stock,https://www.bigbasket.com/pd/40319250/fresho-apple-green-2-pcs/,fresh_fruits,fresh-fruits,Approx. 260 g - 300 g
+bigbasket,Gurgaon,Indian Pear / Naspathi,fresho!,73.0,91.25,20% OFF,In Stock,https://www.bigbasket.com/pd/30001107/fresho-pear-naspathi-indian-500-g/,fresh_fruits,fresh-fruits,500 g
+bigbasket,Gurgaon,Pomegranate,fresho!,197.0,246.25,20% OFF,In Stock,https://www.bigbasket.com/pd/10000269/fresho-pomegranate-4-pcs/,fresh_fruits,fresh-fruits,(Approx. 800 g - 880 g)
+bigbasket,Gurgaon,Raw Mango,fresho!,65.0,81.25,20% OFF,In Stock,https://www.bigbasket.com/pd/10000587/fresho-raw-mango-500-g/,fresh_fruits,fresh-fruits,500 g
+bigbasket,Gurgaon,Chausa Mango,fresho!,216.0,270.0,20% OFF,In Stock,https://www.bigbasket.com/pd/40031621/fresho-mango-chausa-1-kg/,fresh_fruits,fresh-fruits,1 kg
+bigbasket,Gurgaon,Chilli Cheese Slices,D'lecta,115.2,160.0,28% OFF,In Stock,https://www.bigbasket.com/pd/40339749/dlecta-chilli-cheese-slices-200-g/,dairy,dairy,(10 pcs)
+bigbasket,Gurgaon,Taaza Milk,Amul,59.0,59.0,,In Stock,https://www.bigbasket.com/pd/40114416/amul-taaza-milk-1-l-pouch/,dairy,dairy,Pouch
+bigbasket,Gurgaon,Gold Full Cream Milk,Amul,72.0,72.0,,In Stock,https://www.bigbasket.com/pd/40175764/amul-amul-gold-1-l/,dairy,dairy,1 L
+bigbasket,Gurgaon,Fruit Yoghurt - Blueberry,Milky Mist,35.0,40.0,13% OFF,In Stock,https://www.bigbasket.com/pd/40100924/milky-mist-fruit-yoghurt-blueberry-100-g/,dairy,dairy,100 g
+bigbasket,Gurgaon,Cow Milk,Mother Dairy,60.0,60.0,,In Stock,https://www.bigbasket.com/pd/40159658/mother-dairy-cow-milk-1-l/,dairy,dairy,1 L
+bigbasket,Gurgaon,Probiotic Tadka Chach,Mother Dairy,10.0,10.0,,In Stock,https://www.bigbasket.com/pd/40195339/mother-dairy-tadka-chach-350-ml/,dairy,dairy,Pouch
+bigbasket,Gurgaon,Livo Blueberry Yogurt,Heritage,25.0,30.0,17% OFF,In Stock,https://www.bigbasket.com/pd/40350707/heritage-livo-blueberry-yogurt-90-g/,dairy,dairy,90 g
+bigbasket,Gurgaon,Pasteurised Butter,Amul,310.0,310.0,,In Stock,https://www.bigbasket.com/pd/104864/amul-butter-pasteurised-500-g-carton/,dairy,dairy,Carton
+bigbasket,Gurgaon,Paneer,Mother Dairy,160.2,180.0,11% OFF,In Stock,https://www.bigbasket.com/pd/900458772/mother-dairy-paneer-400-g-pouch/,dairy,dairy,Pouch
+bigbasket,Gurgaon,Livo Mango Yogurt,Heritage,25.0,30.0,17% OFF,In Stock,https://www.bigbasket.com/pd/40350710/heritage-livo-mango-yogurt-90-g/,dairy,dairy,90 g
+bigbasket,Gurgaon,Classic Dahi,Mother Dairy,80.0,80.0,,In Stock,https://www.bigbasket.com/pd/70000740/mother-dairy-curd-1-kg-pouch/,dairy,dairy,Pouch
+bigbasket,Gurgaon,Taaza Homogenised Toned Milk,Amul,77.0,77.0,,In Stock,https://www.bigbasket.com/pd/306926/amul-homogenised-toned-milk-1-l-carton/,dairy,dairy,Tetra Pak
+bigbasket,Gurgaon,Livo Classic Yogurt,Heritage,25.0,30.0,17% OFF,In Stock,https://www.bigbasket.com/pd/40350709/heritage-livo-classic-yogurt-90-g/,dairy,dairy,90 g
+bigbasket,Gurgaon,Lactose Free Milk,Amul,26.0,26.0,,In Stock,https://www.bigbasket.com/pd/40049915/amul-lactose-free-milk-250-ml-tetra-pack/,dairy,dairy,Tetra Pak
+bigbasket,Gurgaon,Classic Curd,Mother Dairy,50.0,50.0,,In Stock,https://www.bigbasket.com/pd/40004532/mother-dairy-dahi-made-from-toned-milk-400-g-cup/,dairy,dairy,Cup
+bigbasket,Gurgaon,Livo Strawberry Yogurt,Heritage,25.0,30.0,17% OFF,In Stock,https://www.bigbasket.com/pd/40350711/heritage-livo-strawberry-yogurt-90-g/,dairy,dairy,90 g
+bigbasket,Gurgaon,Cow Milk,Amul,31.0,31.0,,In Stock,https://www.bigbasket.com/pd/40141614/amul-amul-cow-500-ml-pouch/,dairy,dairy,Pouch
+bigbasket,Gurgaon,Toned Milk,Mother Dairy,60.0,60.0,,In Stock,https://www.bigbasket.com/pd/40160355/mother-dairy-toned-milk-1-l-pouch/,dairy,dairy,Pouch
+bigbasket,Gurgaon,Masti Dahi,Amul,80.0,80.0,,In Stock,https://www.bigbasket.com/pd/40147629/amul-masti-dahi-1-kg-pouch/,dairy,dairy,Pouch
+bigbasket,Gurgaon,Fresh Malai Paneer,Amul,435.0,435.0,,In Stock,https://www.bigbasket.com/pd/40096749/amul-malai-fresh-paneer-1-kg/,dairy,dairy,Pouch
+bigbasket,Gurgaon,Moti Homogenised Toned Milk,Amul,33.0,33.0,,In Stock,https://www.bigbasket.com/pd/40005033/amul-moti-homogenised-toned-milk-450-ml-pouch/,dairy,dairy,Pouch
+bigbasket,Gurgaon,Full Cream Milk,Mother Dairy,72.0,72.0,,In Stock,https://www.bigbasket.com/pd/40159657/mother-dairy-full-cream-milk-fcm-1-l/,dairy,dairy,1 L
+bigbasket,Gurgaon,Premium Probiotic Chach,Mother Dairy,20.0,20.0,,In Stock,https://www.bigbasket.com/pd/70000746/mother-dairy-premium-chach-plain-450-ml-pouch/,dairy,dairy,425 ml
+bigbasket,Gurgaon,Buffalo Milk,Amul,40.0,40.0,,In Stock,https://www.bigbasket.com/pd/40167828/amul-buffalo-milk-500-ml-pouch/,dairy,dairy,Pouch
+bigbasket,Gurgaon,Gold Homogenised Standardised Milk,Amul,83.0,83.0,,In Stock,https://www.bigbasket.com/pd/104707/amul-homogenised-standardised-milk-1-l-carton/,dairy,dairy,Tetra Pak
+bigbasket,Gurgaon,Classic Dahi,Mother Dairy,10.0,10.0,,In Stock,https://www.bigbasket.com/pd/40181061/mother-dairy-classic-dahi-85-g-cup/,dairy,dairy,Cup
+bigbasket,Gurgaon,Salt 'n' Pepper Popped Chips,Bingo!,41.0,50.0,18% OFF,In Stock,https://www.bigbasket.com/pd/40333066/bingo-salt-n-pepper-popped-chips-48-g/,snacks,snacks-namkeen,48 g
+bigbasket,Gurgaon,Khakhra - Punjabi Masala,Jabsons,80.0,80.0,,In Stock,https://www.bigbasket.com/pd/40018624/jabsons-khakhra-punjabi-masala-180-g-pouch/,snacks,snacks-namkeen,Pouch
+bigbasket,Gurgaon,India's Magic Masala Potato Chips,Lay's,100.8,144.0,30% OFF,In Stock,https://www.bigbasket.com/pd/1236984/lays-indias-magic-masala-potato-chips-3x82-g/,snacks,snacks-namkeen,(Multipack)
+bigbasket,Gurgaon,Korean Style Hot & Spicy Potato Chips,Bingo!,42.5,50.0,15% OFF,In Stock,https://www.bigbasket.com/pd/40323264/bingo-korean-style-hot-spicy-potato-chips-90-g/,snacks,snacks-namkeen,82 g
+bigbasket,Gurgaon,Classic Salted Potato Chips,Haldiram's,30.0,50.0,40% OFF,In Stock,https://www.bigbasket.com/pd/900457049/haldirams-classic-salted-potato-chips-95-g/,snacks,snacks-namkeen,89 g
+bigbasket,Gurgaon,Spicy Treat Potato Chips,Uncle chipps,72.0,96.0,25% OFF,In Stock,https://www.bigbasket.com/pd/1227709/uncle-chips-spicy-treat-potato-chips-crispy-chips-snacks-2x80-g/,snacks,snacks-namkeen,Multipack
+bigbasket,Gurgaon,Classic Salted Potato Chips,Lay's,99.75,144.0,31% OFF,In Stock,https://www.bigbasket.com/pd/1236986/lays-classic-salted-potato-chips-3x82-g/,snacks,snacks-namkeen,(Multipack)
+bigbasket,Gurgaon,Sesame Murukku,Tasties Origins,55.0,100.0,45% OFF,In Stock,https://www.bigbasket.com/pd/40229171/tasties-origins-origins-namkeen-sesame-murukku-150-g/,snacks,snacks-namkeen,Namkeen
+bigbasket,Gurgaon,Masala Munch Namkeen,Kurkure,54.0,60.0,10% OFF,In Stock,https://www.bigbasket.com/pd/1205616/kurkure-namkeen-masala-munch-3x90-g/,snacks,snacks-namkeen,Multipack
+bigbasket,Gurgaon,American Style Cream & Onion Potato Chips,Lay's,21.0,25.0,16% OFF,In Stock,https://www.bigbasket.com/pd/102745/lays-potato-chips-american-style-cream-onion-flavour-52-g-pouch/,snacks,snacks-namkeen,Pouch
+bigbasket,Gurgaon,Indian Spice Mix Popped Chips,Bingo!,15.0,20.0,25% OFF,In Stock,https://www.bigbasket.com/pd/40358304/bingo-indian-spice-mix-popped-chips-25-g/,snacks,snacks-namkeen,25 g
+bigbasket,Gurgaon,Bhujia,Haldiram's,60.0,60.0,,In Stock,https://www.bigbasket.com/pd/70000801/haldirams-namkeen-bhujia-del-200-g-pouch/,snacks,snacks-namkeen,Pouch
+bigbasket,Gurgaon,Classic Salted Peanuts,Haldiram's,60.0,60.0,,In Stock,https://www.bigbasket.com/pd/70000798/haldirams-namkeen-peanut-salted-del-200-g-pouch/,snacks,snacks-namkeen,200 g
+bigbasket,Gurgaon,Namkeen - Bhelpuri (Del),Haldiram's,60.0,60.0,,In Stock,https://www.bigbasket.com/pd/70000793/haldirams-namkeen-bhelpuri-del-200-g-pouch/,snacks,snacks-namkeen,Pouch
+bigbasket,Gurgaon,Boondi Namkeen,Haldiram's,55.0,55.0,,In Stock,https://www.bigbasket.com/pd/70000790/haldirams-namkeen-boondi-plain-del-200-g-pouch/,snacks,snacks-namkeen,210 g
+bigbasket,Gurgaon,Bhujia,Haldiram's,120.0,120.0,,In Stock,https://www.bigbasket.com/pd/70000819/haldirams-namkeen-bhujia-del-400-g-pouch/,snacks,snacks-namkeen,400 g
+bigbasket,Gurgaon,Tedhe Medhe Masala Tadka,Bingo!,15.0,20.0,25% OFF,In Stock,https://www.bigbasket.com/pd/40226709/bingo-tedhe-medhe-snacks-with-corn-rice-dal-masala-tadka-90-g/,snacks,snacks-namkeen,75 g
+bigbasket,Gurgaon,Dakshin Pepper Fry Kerala Banana Chips,Beyond Snack,75.0,75.0,,In Stock,https://www.bigbasket.com/pd/40355278/beyond-snack-dakshin-pepper-fry-kerala-banana-chips-80-g-pouch/,snacks,snacks-namkeen,Pouch
+bigbasket,Gurgaon,Original Bharuchi Khari Sing/Dry Roasted Peanut With Skin,Jabsons,162.0,200.0,19% OFF,In Stock,https://www.bigbasket.com/pd/1228824/jabsons-original-bharuchi-khari-singdry-roasted-peanut-with-skin-2-x-200-g/,snacks,snacks-namkeen,Multipack
+bigbasket,Gurgaon,Original Style Chilli Sprinkled Potato Chips,Bingo!,60.0,100.0,40% OFF,In Stock,https://www.bigbasket.com/pd/40345818/bingo-original-style-chilli-sprinkled-potato-chips-130-g/,snacks,snacks-namkeen,130 g
+bigbasket,Gurgaon,Magic Butter Instant Popcorn,ACT II,10.0,10.0,,In Stock,https://www.bigbasket.com/pd/40252243/act-ii-instant-popcorn-magic-butter-with-corn-kernels-100-whole-grain-30-g-240/,snacks,snacks-namkeen,35 g
