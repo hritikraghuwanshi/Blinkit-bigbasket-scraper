@@ -50,18 +50,6 @@ BIGBASKET_CATEGORIES = {
     "snacks": "snacks-branded-foods/snacks-namkeen",
 }
 
-# Zepto has no plain browsable category URL that returns clean JSON (category
-# pages are Next.js Server Components -- see README) but its search endpoint
-# does, with rich per-product data. So "categories" here are representative
-# search terms rather than real category slugs; each still maps to a logging
-# label like the other two sites.
-ZEPTO_CATEGORIES = {
-    "vegetables_fruits": "vegetables",
-    "atta_rice_dal": "atta",
-    "dairy_bread_eggs": "milk",
-    "snacks": "chips",
-}
-
 # Cap on how many listing pages to pull per category. None = no cap (full
 # pagination). Kept low by default so a demo run stays fast and low-risk
 # for bot-detection; raise it for a fuller data pull.
